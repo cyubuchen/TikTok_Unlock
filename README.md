@@ -46,10 +46,4 @@
     * 有机场的：`设置`--)`订阅`--)右上角`加号`--)`服务器`--)粘你的订阅链接--)`保存`  
     * 没有机场的：`设置`--)`服务器`--)右上角`加号/扫二维码`--)填写你的代理
         * [或从这获取免费的socks5代理](https://github.com/cyubuchen/ProxySpider_spys)
-        * 我的小水管，仅供临时测试TikTok使用，随时挂😏
-            * `shadowsocks for TikTok test (2019.03.25-2019.06.15)`
-            * `address:cyubuchen.ga`
-            * `port:543`
-            * `password:cyubuchen`
-            * `method:aes-256-cfb`
 11. 前往`quantumult`的`主页`--)右上角开启`圈`--)`Allow`--)`指纹/密码`--)戳最底端中间的`小圈图标`以选择你的节点--)抖音愉快
